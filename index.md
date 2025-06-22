@@ -18,6 +18,12 @@ This portfolio is currently being assembled — check back soon for projects, pr
 In the meantime, here’s what you’ll eventually find here:
 
 ---
+## 🚀 Explore Projects
+
+Want to see what I’m working on?  
+👉 [View my Projects](./projects/)
+
+---
 
 ## 🔧 What’s Coming
 

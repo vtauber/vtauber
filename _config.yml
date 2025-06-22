@@ -1,6 +1,6 @@
 title: Game Design Portfolio
 description: A personal collection of projects, tools, and design systems.
-theme: minima
+theme: jekyll-theme-dinky
 baseurl: ""
 url: "https://yourusername.github.io"
 
@@ -8,6 +8,13 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
 
 plugins:
   - jekyll-feed
