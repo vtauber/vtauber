@@ -1,0 +1,31 @@
+title: Game Design Portfolio
+description: A personal collection of projects, tools, and design systems.
+theme: minima
+baseurl: ""
+url: "https://yourusername.github.io"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Optional: Custom nav links (for future use)
+# navbar:
+#   - title: "Projects"
+#     url: "/projects/"
+#   - title: "About"
+#     url: "/about/"
+#   - title: "Contact"
+#     url: "/contact/"
+
+# Optional: GitHub Pages compatibility
+exclude:
+  - README.md
+  - LICENSE
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
